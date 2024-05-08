@@ -74,13 +74,15 @@ Leeds, United Kingdom
 #### MISHIMA  
 [Link to Mishima](https://fmandeel.itch.io/mishima)  
 Game developed in C# using the Unity engine. A full explanation of all of my development steps, including Planning, Development, Design, A video explaining how the code works, and the final product is [available here.](https://gofile.io/d/oh0ldQ)
-
+![Mishima](https://img.itch.zone/aW1nLzEwODg3OTczLnBuZw==/315x250%23c/jikhqH.png)
 
 #### DISTANT GRAVE  
 [Link to Distant Grave](https://fmandeel.itch.io/distant-grave)  
 Game developed in C++ using the Unreal Engine. The game was completed in a timeframe of one week for the Bahrain Game Jam 2020.
+![Distant Grave](https://img.itch.zone/aW1nLzQ4MzA2NjAucG5n/315x250%23c/%2Basvef.png)
 
 #### GRIMFARM QUEST  
 [Link to Grimfarm Quest](https://fmandeel.itch.io/grimfarm-quest)  
 Game developed in C++ using the Unreal Engine. The game was completed in a timeframe of one week for the GGJNEXT Game Jam 2020.
+![Grimfarm Quest](https://img.itch.zone/aW1nLzM5Mjg1NTQucG5n/315x250%23c/dWTF36.png)
 
