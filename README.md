@@ -1,6 +1,6 @@
 # Fahad Almandeel, Software Engineer and IT Specialist
-**Location:** Saar, Bahrain  
-**Phone:** 37377300  
+**Location:** Leeds, United Kingdom | Manama, Bahrain
+**Phone:** +44 7587528750 | +973 37377300 
 **Email:** fahad.gw@gmail.com  
 
 ## PROFILE
@@ -53,6 +53,13 @@ Manama
   - Debate Club Member  
   - Music Club Member  
 As a motivated and high-achieving graduate of Bahrain Bayan School, I am proud to showcase my academic excellence and passion for education. With a stellar 94% GPA, I have consistently demonstrated my commitment to academic success and a drive for personal growth.  
+
+### Sep 2023 — Sep 2027  
+**Bachelors in Computer Science (ongoing), University of Leeds**  
+Leeds
+- Completing my foundation year at the Uni in June 2024, and will be entering my course in September. 
+- **Provisional Marks (Foundation Year):**  
+  - Intro to Programming (87/100)
 
 ## SKILLS  
 - Microsoft Excel Expert  
