@@ -11,7 +11,7 @@ Hi there! I'm Fahad, a student at the University of Leeds with a keen interest i
 ## EMPLOYMENT HISTORY
 ### Jan 2023 — Sep 2023  
 **IT Specialist, Grapevine Contracting SPC**  
-Salmabad  
+Salmabad, Bahrain
 - Joined Grapevine Contracting SPC as an IT Specialist, tasked with revamping their Excel system.  
 - Created a series of programs to automate processes and enhance efficiency within the organization.  
 - Developed a Daily Income Report program to automate the generation of financial reports, saving significant time and effort.  
@@ -19,26 +19,26 @@ Salmabad
 
 ### Jul 2023 — Sep 2023  
 **Land Surveyor, Urban Vision**  
-Manama  
+Manama, Bahrain 
 - Worked part-time as a Land Surveyor for the urban planning company Urban Vision.  
 
 ### Mar 2023 — Apr 2023  
 **Cybersecurity Intern, Quantic Technologies Cybersecurity Firm**  
-Manama  
+Manama, Bahrain
 - Participated in an internship for the Quantic Technologies Cybersecurity Firm.  
 - Completed various tasks, including writing a presentation to promote Quantic Technologies' services to a client.  
 - Gained insight into the work environment and challenges faced in the cybersecurity field.  
 
 ### Feb 2023 — Mar 2023  
 **Intern, Gulf Business Machines**  
-Manama  
+Manama, Bahrain
 - Participated in an internship for IBM partner Gulf Business Machines.  
 - Interacted with department heads and learned about technologies like Cloud Computing and Cybersecurity.  
 - Gained hands-on experience in IT and software solutions.  
 
 ### Feb 2022 — Nov 2022  
 **Head of IT, BayMUN Conference**  
-Manama  
+Manama, Bahrain
 - Led the IT team for BayMUN, representing Bahrain Bayan School in Geneva.  
 - Met with notable individuals, including UN Ambassador Yusuf Bucheeri.  
 - Personally held a meeting with WTO Committee Chairperson Khalid Al Aamer, where I discussed important issues regarding IT and Digitization.  
@@ -49,7 +49,7 @@ Manama
 ## EDUCATION  
 ### Jan 2009 — May 2023  
 **High School Diploma with Distinction, Bahrain Bayan School**  
-Manama  
+Manama, Bahrain
 - **Grade:** 94% (GPA 3.713)  
 - **Activities and societies:**  
   - NHS Member  
@@ -60,7 +60,7 @@ As a motivated and high-achieving graduate of Bahrain Bayan School, I am proud t
 
 ### Sep 2023 — Sep 2027  
 **Bachelors in Computer Science (ongoing), University of Leeds**  
-Leeds
+Leeds, United Kingdom
 - Completing my foundation year at the Uni in June 2024, and will be entering my course in September. 
 - **Provisional Marks (Foundation Year):**  
   - Intro to Programming (87/100)
