@@ -1,6 +1,6 @@
 # Fahad Almandeel, Software Engineer and IT Specialist
-**Location:** Leeds, United Kingdom | Manama, Bahrain
-**Phone:** +44 7587528750 | +973 37377300 
+**Location:** Leeds, United Kingdom 
+**Phone:** +44 7587528750 
 **Email:** fahad.gw@gmail.com  
 
 ## PROFILE
