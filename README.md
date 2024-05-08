@@ -67,12 +67,20 @@ Leeds, United Kingdom
 
 ---
 
-## SKILLS  
-- Microsoft Excel Expert  
-- Microsoft Office Expert  
-- Cloud Computing Skillful  
-- IT Project Management Skillful  
-- IT Operations Skillful  
-- Website Building Experienced  
-- Cybersecurity Beginner  
-- Java Skillful  
+## PROJECT HISTORY
+
+### GAMES:
+
+#### MISHIMA  
+[Link to Mishima](https://fmandeel.itch.io/mishima)  
+Game developed in C# using the Unity engine. A full explanation of all of my development steps, including Planning, Development, Design, A video explaining how the code works, and the final product is available here:
+(downloadable attachment)
+
+#### DISTANT GRAVE  
+[Link to Distant Grave](https://fmandeel.itch.io/distant-grave)  
+Game developed in C++ using the Unreal Engine. The game was completed in a timeframe of one week for the Bahrain Game Jam 2020.
+
+#### GRIMFARM QUEST  
+[Link to Grimfarm Quest](https://fmandeel.itch.io/grimfarm-quest)  
+Game developed in C++ using the Unreal Engine. The game was completed in a timeframe of one week for the GGJNEXT Game Jam 2020.
+
