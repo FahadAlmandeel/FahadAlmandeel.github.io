@@ -74,6 +74,7 @@ Leeds, United Kingdom
 #### MISHIMA  
 [Link to Mishima](https://fmandeel.itch.io/mishima)  
 Game developed in C# using the Unity engine. A full explanation of all of my development steps, including Planning, Development, Design, A video explaining how the code works, and the final product is [available here.](https://gofile.io/d/oh0ldQ)
+
 ![Mishima](https://img.itch.zone/aW1nLzEwODg3OTczLnBuZw==/315x250%23c/jikhqH.png)
 
 #### DISTANT GRAVE  
