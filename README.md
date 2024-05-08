@@ -6,6 +6,8 @@
 ## PROFILE
 Hi there! I'm Fahad, a student at the University of Leeds with a keen interest in Computer Science, specifically software solutions. You can view a summary of my employment and education history below, as well as a summary of all of my projects related to software solutions at the bottom of the page.
 
+---
+
 ## EMPLOYMENT HISTORY
 ### Jan 2023 — Sep 2023  
 **IT Specialist, Grapevine Contracting SPC**  
@@ -40,7 +42,9 @@ Manama
 - Led the IT team for BayMUN, representing Bahrain Bayan School in Geneva.  
 - Met with notable individuals, including UN Ambassador Yusuf Bucheeri.  
 - Personally held a meeting with WTO Committee Chairperson Khalid Al Aamer, where I discussed important issues regarding IT and Digitization.  
-- Designed the BayMUN website and managed technical issues during the conference.  
+- Designed the BayMUN website and managed technical issues during the conference.
+
+---
 
 ## EDUCATION  
 ### Jan 2009 — May 2023  
@@ -60,6 +64,8 @@ Leeds
 - Completing my foundation year at the Uni in June 2024, and will be entering my course in September. 
 - **Provisional Marks (Foundation Year):**  
   - Intro to Programming (87/100)
+
+---
 
 ## SKILLS  
 - Microsoft Excel Expert  
