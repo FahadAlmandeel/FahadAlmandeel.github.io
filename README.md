@@ -4,7 +4,7 @@
 **Email:** fahad.gw@gmail.com  
 
 ## PROFILE
-Results-driven Computer Science enthusiast passionate about cybersecurity, IT solutions, and innovation. Successfully crafted compelling client presentations during internships at Quantic Technologies and Gulf Business Machines, gaining hands-on experience in Cloud Computing and Cybersecurity. Head of IT for BayMUN, designing the conference website and engaging with prominent world figures in Geneva. Adept at public speaking and leadership, leading the Youth Leadership Program of Manama Toastmasters as President and excelling in coding competitions like HackArabia 2017. Seeking challenging roles in IT or software solutions to leverage skills and drive innovation.  
+Hi there! I'm Fahad, a student at the University of Leeds with a keen interest in Computer Science, specifically software solutions. You can view a summary of my employment and education history below, as well as a summary of all of my projects related to software solutions at the bottom of the page.
 
 ## EMPLOYMENT HISTORY
 ### Jan 2023 — Sep 2023  
